@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Welcome to My Blog - Updates on NFC Tool and Development Journey"
-date: 2024-12-07 18:00:00 +0700
+title: "Welcome to My Blog - Development Journey and Insights"
+date: 2024-12-05 18:00:00 +0700
 categories: [Personal, Announcement]
-tags: [blog, nfc-tool, development, introduction]
-excerpt: "Welcome to my new blog! I'll be sharing updates about my NFC Tool app development, technical insights, and my journey as a software developer."
+tags: [blog, development, introduction]
+excerpt: "Welcome to my new blog! I'll be sharing technical insights, development tutorials, and my journey as a software developer."
 ---
 
 # Welcome to My Blog!
@@ -15,11 +15,11 @@ Hello and welcome to my personal blog! I'm excited to start sharing my developme
 
 I'll be using this space to share:
 
-### 📱 **NFC Tool App Updates**
-- New feature releases and improvements
-- Technical deep dives into NFC technology
-- User feedback and how it shapes the app
-- Privacy and security enhancements
+### 📱 **Mobile Development**
+- Android and iOS app development insights
+- User interface design principles
+- Performance optimization techniques
+- App store publishing experiences
 
 ### 💻 **Development Insights**
 - Lessons learned from mobile app development

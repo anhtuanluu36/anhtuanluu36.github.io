@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I Used Claude to Build This Jekyll Website"
-date: 2024-12-07 19:00:00 +0700
+date: 2025-12-07 19:00:00 +0700
 categories: [Development, Tutorial]
 tags: [Claude, AI, Jekyll, Website, Development]
 excerpt: "A behind-the-scenes look at how I leveraged Claude AI to design, build, and customize this Jekyll-based personal website from scratch."

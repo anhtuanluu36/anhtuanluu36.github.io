@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/personal/announcement/2024/12/07/welcome-to-my-blog.html</loc>
-<lastmod>2024-12-07T18:00:00+07:00</lastmod>
+<loc>http://localhost:4000/personal/announcement/2024/12/05/welcome-to-my-blog.html</loc>
+<lastmod>2024-12-05T18:00:00+07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/development/tutorial/2024/12/07/how-i-used-claude-to-build-this-website.html</loc>
-<lastmod>2024-12-07T19:00:00+07:00</lastmod>
+<loc>http://localhost:4000/development/tutorial/2025/12/07/how-i-used-claude-to-build-this-website.html</loc>
+<lastmod>2025-12-07T19:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/mobile%20development/nfc%20technology/2025/12/07/introducing-nfc-tool-app.html</loc>
+<lastmod>2025-12-07T20:00:00+07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>

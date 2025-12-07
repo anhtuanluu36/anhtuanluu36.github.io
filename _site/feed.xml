@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-12-07T20:08:28+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Luu Anh Tuan</title><subtitle>Personal website and portfolio of Luu Anh Tuan. Software developer, tech enthusiast, and lifelong learner.</subtitle><entry><title type="html">How I Used Claude to Build This Jekyll Website</title><link href="http://localhost:4000/development/tutorial/2024/12/07/how-i-used-claude-to-build-this-website.html" rel="alternate" type="text/html" title="How I Used Claude to Build This Jekyll Website" /><published>2024-12-07T19:00:00+07:00</published><updated>2024-12-07T19:00:00+07:00</updated><id>http://localhost:4000/development/tutorial/2024/12/07/how-i-used-claude-to-build-this-website</id><content type="html" xml:base="http://localhost:4000/development/tutorial/2024/12/07/how-i-used-claude-to-build-this-website.html"><![CDATA[<h1 id="how-i-used-claude-to-build-this-jekyll-website">How I Used Claude to Build This Jekyll Website</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-12-07T21:59:08+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Luu Anh Tuan</title><subtitle>Personal website and portfolio of Luu Anh Tuan. Software developer, tech enthusiast, and lifelong learner.</subtitle><entry><title type="html">Introducing NFC Tool - A Powerful NFC Management App</title><link href="http://localhost:4000/mobile%20development/nfc%20technology/2025/12/07/introducing-nfc-tool-app.html" rel="alternate" type="text/html" title="Introducing NFC Tool - A Powerful NFC Management App" /><published>2025-12-07T20:00:00+07:00</published><updated>2025-12-07T20:00:00+07:00</updated><id>http://localhost:4000/mobile%20development/nfc%20technology/2025/12/07/introducing-nfc-tool-app</id><content type="html" xml:base="http://localhost:4000/mobile%20development/nfc%20technology/2025/12/07/introducing-nfc-tool-app.html"><![CDATA[<h1 id="introducing-nfc-tool---a-powerful-nfc-reader-and-emulator-app">Introducing NFC Tool - A Powerful NFC Reader and Emulator App</h1>
+
+<p>I’m excited to share one of my most significant projects: <strong>NFC Tool</strong>, a comprehensive Android application designed for reading, analyzing, and emulating NFC cards and tags. Whether you’re working with payment cards, identification cards, or exploring NFC technology, this app provides the professional tools you need.</p>
+
+<h2 id="what-is-nfc-tool">What is NFC Tool?</h2>
+
+<p>NFC Tool is a feature-rich Android application that specializes in:</p>
+<ul>
+  <li><strong>Reading various NFC cards</strong> including payment cards and CIC (Citizen Identity Cards)</li>
+  <li><strong>Virtual NFC tag emulation</strong> using Host Card Emulation (HCE)</li>
+  <li><strong>Advanced NFC communication</strong> with minimal system popup interference</li>
+  <li><strong>Multiple NFC technology support</strong> (NfcA, NfcB, IsoDep, MifareClassic, etc.)</li>
+  <li><strong>Professional card analysis</strong> with detailed technical data</li>
+</ul>
+
+<h2 id="key-features">Key Features</h2>
+
+<h3 id="-payment-card-reading">💳 Payment Card Reading</h3>
+<ul>
+  <li>EMV card data extraction</li>
+  <li>Payment application detection</li>
+  <li>Card application analysis</li>
+  <li>Transaction history access (where available)</li>
+</ul>
+
+<h3 id="-virtual-nfc-emulation">🔄 Virtual NFC Emulation</h3>
+<ul>
+  <li>Host Card Emulation (HCE) service</li>
+  <li>Virtual tag creation and emulation</li>
+  <li>Custom NDEF record emulation</li>
+  <li>Real-time emulation control</li>
+</ul>
+
+<h3 id="-advanced-nfc-tools">🔧 Advanced NFC Tools</h3>
+<ul>
+  <li>Multiple NFC technology support (NfcA/B, IsoDep, Mifare)</li>
+  <li>Foreground dispatch for popup prevention</li>
+  <li>Raw hex data analysis</li>
+  <li>Professional debugging interface</li>
+</ul>
+
+<hr />
+
+<p><em>NFC Tool is available on the Google Play Store and other Android app markets. Download it today and start exploring the possibilities of NFC technology!</em></p>]]></content><author><name></name></author><category term="Mobile Development" /><category term="NFC Technology" /><category term="NFC" /><category term="Android" /><category term="Mobile App" /><category term="Technology" /><category term="Innovation" /><summary type="html"><![CDATA[Discover NFC Tool, my comprehensive Android application for reading payment cards, CIC cards, and emulating virtual NFC tags with professional-grade features.]]></summary></entry><entry><title type="html">How I Used Claude to Build This Jekyll Website</title><link href="http://localhost:4000/development/tutorial/2025/12/07/how-i-used-claude-to-build-this-website.html" rel="alternate" type="text/html" title="How I Used Claude to Build This Jekyll Website" /><published>2025-12-07T19:00:00+07:00</published><updated>2025-12-07T19:00:00+07:00</updated><id>http://localhost:4000/development/tutorial/2025/12/07/how-i-used-claude-to-build-this-website</id><content type="html" xml:base="http://localhost:4000/development/tutorial/2025/12/07/how-i-used-claude-to-build-this-website.html"><![CDATA[<h1 id="how-i-used-claude-to-build-this-jekyll-website">How I Used Claude to Build This Jekyll Website</h1>
 
 <p>Building a personal website can be daunting, especially when you want something that looks professional but don’t have extensive web development experience. That’s where Claude AI came to the rescue! In this post, I’ll share how I used Claude to create this entire Jekyll-based website.</p>
 
@@ -195,7 +238,7 @@ Try: “Change the footer to 2 columns with contact info on the left and descrip
 
 <hr />
 
-<p><em>Have questions about this process or want to share your own experience using AI for web development? Feel free to reach out!</em></p>]]></content><author><name></name></author><category term="Development" /><category term="Tutorial" /><category term="Claude" /><category term="AI" /><category term="Jekyll" /><category term="Website" /><category term="Development" /><summary type="html"><![CDATA[A behind-the-scenes look at how I leveraged Claude AI to design, build, and customize this Jekyll-based personal website from scratch.]]></summary></entry><entry><title type="html">Welcome to My Blog - Updates on NFC Tool and Development Journey</title><link href="http://localhost:4000/personal/announcement/2024/12/07/welcome-to-my-blog.html" rel="alternate" type="text/html" title="Welcome to My Blog - Updates on NFC Tool and Development Journey" /><published>2024-12-07T18:00:00+07:00</published><updated>2024-12-07T18:00:00+07:00</updated><id>http://localhost:4000/personal/announcement/2024/12/07/welcome-to-my-blog</id><content type="html" xml:base="http://localhost:4000/personal/announcement/2024/12/07/welcome-to-my-blog.html"><![CDATA[<h1 id="welcome-to-my-blog">Welcome to My Blog!</h1>
+<p><em>Have questions about this process or want to share your own experience using AI for web development? Feel free to reach out!</em></p>]]></content><author><name></name></author><category term="Development" /><category term="Tutorial" /><category term="Claude" /><category term="AI" /><category term="Jekyll" /><category term="Website" /><category term="Development" /><summary type="html"><![CDATA[A behind-the-scenes look at how I leveraged Claude AI to design, build, and customize this Jekyll-based personal website from scratch.]]></summary></entry><entry><title type="html">Welcome to My Blog - Development Journey and Insights</title><link href="http://localhost:4000/personal/announcement/2024/12/05/welcome-to-my-blog.html" rel="alternate" type="text/html" title="Welcome to My Blog - Development Journey and Insights" /><published>2024-12-05T18:00:00+07:00</published><updated>2024-12-05T18:00:00+07:00</updated><id>http://localhost:4000/personal/announcement/2024/12/05/welcome-to-my-blog</id><content type="html" xml:base="http://localhost:4000/personal/announcement/2024/12/05/welcome-to-my-blog.html"><![CDATA[<h1 id="welcome-to-my-blog">Welcome to My Blog!</h1>
 
 <p>Hello and welcome to my personal blog! I’m excited to start sharing my development journey, project updates, and insights from the world of software development.</p>
 
@@ -203,12 +246,12 @@ Try: “Change the footer to 2 columns with contact info on the left and descrip
 
 <p>I’ll be using this space to share:</p>
 
-<h3 id="-nfc-tool-app-updates">📱 <strong>NFC Tool App Updates</strong></h3>
+<h3 id="-mobile-development">📱 <strong>Mobile Development</strong></h3>
 <ul>
-  <li>New feature releases and improvements</li>
-  <li>Technical deep dives into NFC technology</li>
-  <li>User feedback and how it shapes the app</li>
-  <li>Privacy and security enhancements</li>
+  <li>Android and iOS app development insights</li>
+  <li>User interface design principles</li>
+  <li>Performance optimization techniques</li>
+  <li>App store publishing experiences</li>
 </ul>
 
 <h3 id="-development-insights">💻 <strong>Development Insights</strong></h3>
@@ -271,4 +314,4 @@ Try: “Change the footer to 2 columns with contact info on the left and descrip
 
 <hr />
 
-<p><em>This is the first post on my new Jekyll-powered blog. More updates coming soon!</em></p>]]></content><author><name></name></author><category term="Personal" /><category term="Announcement" /><category term="blog" /><category term="nfc-tool" /><category term="development" /><category term="introduction" /><summary type="html"><![CDATA[Welcome to my new blog! I'll be sharing updates about my NFC Tool app development, technical insights, and my journey as a software developer.]]></summary></entry></feed>
+<p><em>This is the first post on my new Jekyll-powered blog. More updates coming soon!</em></p>]]></content><author><name></name></author><category term="Personal" /><category term="Announcement" /><category term="blog" /><category term="development" /><category term="introduction" /><summary type="html"><![CDATA[Welcome to my new blog! I'll be sharing technical insights, development tutorials, and my journey as a software developer.]]></summary></entry></feed>
