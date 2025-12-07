@@ -1,0 +1,68 @@
+# Site settings
+title: Luu Anh Tuan
+email: anhtuanluu36@gmail.com
+description: >-
+  Personal website and portfolio of Luu Anh Tuan.
+  Software developer, tech enthusiast, and lifelong learner.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://luuanhtuan.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Social links
+github_username: anhtuanluu36
+# twitter_username: your_username
+# linkedin_username: your_username
+
+# Navigation
+header_pages:
+  - about.md
+  - privacy-policy.md
+  - nfc-tool-privacy-policy.md
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Collections
+collections:
+  posts:
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# SEO and Analytics
+google_analytics: # Add your GA tracking ID here
+google_site_verification: # Add your Google site verification code here
+
+# Timezone
+timezone: Asia/Ho_Chi_Minh
