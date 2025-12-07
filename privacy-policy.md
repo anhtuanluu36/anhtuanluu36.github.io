@@ -4,15 +4,28 @@ title: Privacy Policy
 permalink: /privacy-policy/
 ---
 
-# Privacy Policy
+# Privacy Policies
 
 *Last updated: {{ site.time | date: "%B %d, %Y" }}*
+
+This page contains links to all privacy policies for our services and applications.
+
+## Website Privacy Policy
+
+**[Website Privacy Policy](#website-policy)** - Privacy policy for this website (luuanhtuan.github.io)
+
+## Mobile Applications
+
+**[NFC Tool Privacy Policy](/nfc-tool-privacy-policy/)** - Privacy policy for the NFC Tool mobile application
+
+---
+
+<a name="website-policy"></a>
+# Website Privacy Policy
 
 ## Introduction
 
 This privacy policy describes how luuanhtuan.github.io ("we", "our", or "us") collects, uses, and protects your information when you visit our website.
-
-**For mobile applications**: Please see our separate [NFC Tool Privacy Policy](/nfc-tool-privacy-policy/) for information about our mobile app data practices.
 
 ## Information We Collect
 

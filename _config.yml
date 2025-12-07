@@ -28,7 +28,6 @@ github_username: anhtuanluu36
 header_pages:
   - about.md
   - privacy-policy.md
-  - nfc-tool-privacy-policy.md
 
 # Exclude from processing
 exclude:

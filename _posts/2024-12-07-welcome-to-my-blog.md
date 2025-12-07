@@ -23,7 +23,7 @@ I'll be using this space to share:
 
 ### 💻 **Development Insights**
 - Lessons learned from mobile app development
-- Android development tips and tricks
+- Development tips and tricks
 - Code quality and best practices
 - Tools and technologies I'm exploring
 
